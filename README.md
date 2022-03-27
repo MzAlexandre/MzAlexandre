@@ -1,6 +1,7 @@
 ### Olá, eu sou Marco.
 
 - 🌱 Atualmente estudando Java
+- 📚 Pretendo me tornar Full-Stack
 
 
 <div align="center">
